@@ -1,10 +1,10 @@
 ## Hi there! ✨
 
-I am pursuing a master's in computational analysis and public policy at [University of Chicago](https://capp.uchicago.edu/), where I want to use technology and AI advancement to adress social challenges.
+I am master's student in Computational Analysis and Public Policy at [University of Chicago](https://capp.uchicago.edu/). Passionate about leveraging AI and data science to tackle social challenges and drive meaningful impact.
 
 *Expected graduation date: May 2026.*
 
-- 🔭 I’m currently working on creating a package for merging and analyzing satellite imagery of climate variables
+- 🔭 I’m currently working on creating a package for spatial joining and analyzing satellite imagery on climate variables
 - 🌱 I’m currently learning github as a developer, machine learning, and databases from a CS perspective
 - ⚡ I’m collaborating in visualization for big data projects with social impact
 - 🤓 I also teach spatial analysis in Python at [Universidad de los Andes](https://economia.uniandes.edu.co/)
