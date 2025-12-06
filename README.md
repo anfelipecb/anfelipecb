@@ -1,6 +1,6 @@
 ## Hi there!
 
-I am a master's student in Computational Analysis and Public Policy at [University of Chicago](https://capp.uchicago.edu/) (graduating May 2026), with a strong interest in applying AI, spatial data, and machine learning to solve pressing social and policy challenges.
+I am a master's student in Computational Analysis and Public Policy at [University of Chicago](https://capp.uchicago.edu/) (graduating May 2026), with a strong interest in applying AI, spatial data, and machine learning to solve pressing social and policy challenges. Here is my personal webpage: 🌐 [anfelipecb.github.io](https://anfelipecb.github.io/)
 
 
 🔭 What I’m Working On
@@ -15,4 +15,4 @@ I am a master's student in Computational Analysis and Public Policy at [Universi
 ⚡ Let’s Connect
 
 Always happy to collaborate on projects at the intersection of data, AI, policy, and impact.
-📫 afcamachob@uchicago.edu | 🌐 [anfelipecb.github.io](https://anfelipecb.github.io/)
+📫 afcamachob@uchicago.edu
