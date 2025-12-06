@@ -1,6 +1,6 @@
 ## Hi there!
 
-I am a master's student in Computational Analysis and Public Policy at [University of Chicago](https://capp.uchicago.edu/) (graduating May 2026), with a strong interest in applying AI, spatial data, and machine learning to solve pressing social and policy challenges. Here is my personal webpage: 🌐 [anfelipecb.github.io](https://anfelipecb.github.io/)
+I am a master's student in Computational Analysis and Public Policy at [University of Chicago](https://capp.uchicago.edu/) (graduating June 2026), with a strong interest in applying AI, spatial data, and machine learning to adress complex challenges and ensuring positive impact. Here is my personal webpage: 🌐 [anfelipecb.github.io](https://anfelipecb.github.io/)
 
 
 🔭 What I’m Working On
@@ -8,7 +8,7 @@ I am a master's student in Computational Analysis and Public Policy at [Universi
 - 🔭 Building a Python package for spatial joining and analysis of satellite imagery, focused on climate-related variables
 - 🌱 Collaborating on big data visualizations that support impactful storytelling in climate change impacts on child development
 - 💡 Exploring the intersection of AI, human development, and data accessibility to improve decision-making in underserved communities
-- 🤓 I also teach spatial analysis in Python at [Universidad de los Andes](https://economia.uniandes.edu.co/)
+- 🤓 I teach spatial analysis in Python at [Universidad de los Andes](https://economia.uniandes.edu.co/) and I am TAing at the University of Chicago for CAPP122 and the Data Sience Clinic
 
 ---
 
