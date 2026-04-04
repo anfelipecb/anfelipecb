@@ -8,7 +8,7 @@ I am a master's student in Computational Analysis and Public Policy at [Universi
 - 🔭 Building a Python package for spatial joining and analysis of satellite imagery, focused on climate-related variables
 - 🌱 Collaborating on big data visualizations that support impactful storytelling in climate change impacts on child development
 - 💡 Exploring the intersection of AI, human development, and data accessibility to improve decision-making in underserved communities
-- 🤓 I teach spatial analysis in Python at [Universidad de los Andes](https://economia.uniandes.edu.co/) and I am TAing at the University of Chicago for CAPP122 and the Data Sience Clinic
+- 🤓 I teach spatial analysis in Python at [Universidad de los Andes](https://economia.uniandes.edu.co/) and I am TAing at the University of Chicago for CAPP122 and the Data Sience Clinic, and Machine Learning
 
 ---
 
